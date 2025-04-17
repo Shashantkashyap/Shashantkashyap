@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm SHASHANT</h1>
+<h3 align="center">A passionate Techy from Earth</h3>
 
-<!--
-**Shashantkashyap/Shashantkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer;Open-source+enthusiast;Lifelong+learner;Tech+Lover&center=true&width=500&height=30&color=00ADB5&vCenter=true&pause=1000&size=20" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently working on **[Project/Repo Name](#)**
+- 🌱 I’m currently learning **[Technology/Skill]**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Dev, AI, or anything tech-related**
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- ⚡ Fun fact: **[A fun fact about you]**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,python,java,git,github,mongodb,postgres,docker,figma&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Langs" height="200"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=gruvbox&row=1&column=6" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+  <a href="https://dev.to/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" height="30" /></a>
+  <a href="mailto:your.email@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+</p>
+
+---
+
+### ⚙️ Fun Widgets
+
+- 🧮 **Profile View Counter**
+  
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=YourUsername&style=flat&label=Visitors)
+
+- 🎯 **Contribution Streak**
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)
+
+---
+
+> Made with ❤️ by [Your Name] – Let's build something great together!
+
