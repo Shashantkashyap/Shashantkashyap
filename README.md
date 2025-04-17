@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Project/Repo Name](#)**
-- 🌱 I’m currently learning **[Technology/Skill]**
+- 🔭 I’m currently working on **Regrip-ERP(#)**
+- 🌱 I’m currently learning **Full-Stack**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Dev, AI, or anything tech-related**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 📫 How to reach me: **Shashant.kashyap999@gmail.com**
+- ⚡ Fun fact: **[I am joker]**
 
 ---
 
@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashantkashyap&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashantkashyap&layout=compact&theme=radical" alt="Top Langs" height="200"/>
 </p>
 
 ---
@@ -66,5 +66,5 @@
 
 ---
 
-> Made with ❤️ by [Your Name] – Let's build something great together!
+> Made with ❤️ by Shashant Kashyap – Let's build something great together!
 
