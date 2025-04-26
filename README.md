@@ -46,10 +46,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-  <a href="https://dev.to/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" height="30" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+  <a href="https://linkedin.com/in/shashant-kashyap" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+ 
 </p>
 
 ---
